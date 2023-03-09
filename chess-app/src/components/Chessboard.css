@@ -1,0 +1,19 @@
+#chessboard {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 600px;
+}
+
+#chessboard .tile {
+    width: 75px;
+    height: 75px;
+}
+
+#chessboard .dark-tile {
+    background-color: sienna;
+}
+
+#chessboard .light-tile {
+    background-color: burlywood;
+}
