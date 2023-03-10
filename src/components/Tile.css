@@ -1,0 +1,12 @@
+.tile {
+    width: 75px;
+    height: 75px;
+}
+
+.dark-tile {
+    background-color: sienna;
+}
+
+.light-tile {
+    background-color: burlywood;
+}
